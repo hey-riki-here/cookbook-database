@@ -14,6 +14,6 @@ How to install?
 Express and Mongoose:
 npm install express mongoose
 
-Nodemon
+Nodemon:
 npm i -g nodemon
 </pre>
